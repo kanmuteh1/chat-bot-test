@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/kanmuteh1/chat-bot-test#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.0"
   }
 }
