@@ -12,7 +12,7 @@ app.use(express.json());
 
 
 app.get('/', (req, res) => {
-  res.send('Hello Everybody!')
+  res.send('Hello Everyone!')
 })
 
 // Handles messages events
